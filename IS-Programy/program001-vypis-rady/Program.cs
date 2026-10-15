@@ -16,5 +16,3 @@ for (int i = first; i <= last; i += step)
     Console.Write(i + " ");
 }
 
-// Finish the output with a newline.
-Console.WriteLine();
