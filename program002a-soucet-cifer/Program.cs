@@ -12,10 +12,15 @@ while(again.ToLower() == "a" )
     Console.WriteLine("******************************************");
 
 Console.WriteLine("Zadej číslo:");
-int cislo = int.Parse(Console.ReadLine());
+int cislo = Math.Abs(int.Parse(Console.ReadLine()));
 
 int soucet = 0;
 int soucin = 1;
+
+if (cislo == 0)
+{
+    soucin = 0;
+}
 
 while (cislo > 0)
 {
