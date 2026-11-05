@@ -1,0 +1,15 @@
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\bin\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.exe
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\bin\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.deps.json
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\bin\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.runtimeconfig.json
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\bin\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.dll
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\bin\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.pdb
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.AssemblyInfoInputs.cache
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.AssemblyInfo.cs
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.sourcelink.json
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.dll
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\refint\program002a-soucet-cifer-kontrola-delitelnosti-3.dll
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.pdb
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\program002a-soucet-cifer-kontrola-delitelnosti-3.genruntimeconfig.cache
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-kontrola-delitelnosti-3\obj\Debug\net10.0\ref\program002a-soucet-cifer-kontrola-delitelnosti-3.dll
