@@ -1,0 +1,15 @@
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\bin\Debug\net10.0\program002a-soucet-cifer-pomoci-string.exe
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\bin\Debug\net10.0\program002a-soucet-cifer-pomoci-string.deps.json
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\bin\Debug\net10.0\program002a-soucet-cifer-pomoci-string.runtimeconfig.json
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\bin\Debug\net10.0\program002a-soucet-cifer-pomoci-string.dll
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\bin\Debug\net10.0\program002a-soucet-cifer-pomoci-string.pdb
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\program002a-soucet-cifer-pomoci-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\program002a-soucet-cifer-pomoci-string.AssemblyInfoInputs.cache
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\program002a-soucet-cifer-pomoci-string.AssemblyInfo.cs
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\program002a-soucet-cifer-pomoci-string.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\program002a-soucet-cifer-pomoci-string.sourcelink.json
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\program002a-soucet-cifer-pomoci-string.dll
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\refint\program002a-soucet-cifer-pomoci-string.dll
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\program002a-soucet-cifer-pomoci-string.pdb
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\program002a-soucet-cifer-pomoci-string.genruntimeconfig.cache
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program002a-soucet-cifer-pomoci-string\obj\Debug\net10.0\ref\program002a-soucet-cifer-pomoci-string.dll
