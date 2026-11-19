@@ -1,4 +1,5 @@
 ﻿
+  using SharedUtilities;
 
 Console.Clear();
 String again = "a";
@@ -12,9 +13,6 @@ while(again.ToLower() == "a" )
     Console.WriteLine("************** Michal Špryňar ************");
     Console.WriteLine("******************************************");
     Console.WriteLine("******************************************");
-
-
-
 
     Console.WriteLine("Pro opakování programu stiskněte klávesu a. Následně potvrďte klávesou Enter. ");
     Console.WriteLine("Jakokouli jinou klávesou program ukončíte.");

@@ -1,0 +1,15 @@
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\program000b-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\program000b-generator.AssemblyInfoInputs.cache
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\program000b-generator.AssemblyInfo.cs
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\program000b-generator.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\program000b-generator.sourcelink.json
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\bin\Debug\net10.0\program000b-generator.exe
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\bin\Debug\net10.0\program000b-generator.deps.json
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\bin\Debug\net10.0\program000b-generator.runtimeconfig.json
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\bin\Debug\net10.0\program000b-generator.dll
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\bin\Debug\net10.0\program000b-generator.pdb
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\program000b-generator.dll
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\refint\program000b-generator.dll
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\program000b-generator.pdb
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\program000b-generator.genruntimeconfig.cache
+C:\Users\Michal\Documents\github-ms-is-2026-sk2\program000b-generator\obj\Debug\net10.0\ref\program000b-generator.dll
