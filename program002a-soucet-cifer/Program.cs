@@ -13,6 +13,7 @@ while(again.ToLower() == "a" )
 
 Console.WriteLine("Zadej číslo:");
 int cislo = Math.Abs(int.Parse(Console.ReadLine()));
+int cisloOriginal = cislo;
 
 int soucet = 0;
 int soucin = 1;
@@ -32,8 +33,8 @@ while (cislo > 0)
     ;
 }
 
-Console.WriteLine("Součet cifer je: " + soucet);
-Console.WriteLine("Součin cifer je: " + soucin);
+
+Console.WriteLine("Součet cifer čísla" + cisloOriginal + "je: " + soucet + " a součin cifer čísla " + cisloOriginal + " je: " + soucin);
 
     Console.WriteLine("Pro opakování programu stiskněte klávesu a. Následně potvrďte klávesou Enter. ");
     Console.WriteLine("Jakokouli jinou klávesou program ukončíte.");

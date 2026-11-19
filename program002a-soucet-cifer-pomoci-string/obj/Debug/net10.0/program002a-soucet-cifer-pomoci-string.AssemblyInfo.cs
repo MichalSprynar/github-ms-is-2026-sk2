@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program002a-soucet-cifer-pomoci-string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d599506fa7a86ece5a82bbfc5d6b7591f791acee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7f37bf6cec8384d82139eeab38928af30acb602")]
 [assembly: System.Reflection.AssemblyProductAttribute("program002a-soucet-cifer-pomoci-string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program002a-soucet-cifer-pomoci-string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
