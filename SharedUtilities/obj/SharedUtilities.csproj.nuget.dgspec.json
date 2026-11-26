@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\SharedUtilities.csproj": {}
+    "C:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\SharedUtilities.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\SharedUtilities.csproj": {
+    "C:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\SharedUtilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\SharedUtilities.csproj",
+        "projectUniqueName": "C:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\SharedUtilities.csproj",
         "projectName": "SharedUtilities",
-        "projectPath": "c:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\SharedUtilities.csproj",
+        "projectPath": "C:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\SharedUtilities.csproj",
         "packagesPath": "C:\\Users\\Michal\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\obj\\",
+        "outputPath": "C:\\Users\\Michal\\Documents\\github-ms-is-2026-sk2\\SharedUtilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Michal\\AppData\\Roaming\\NuGet\\NuGet.Config"
